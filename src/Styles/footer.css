@@ -1,0 +1,36 @@
+.main-footer-container{
+    margin-top:70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:15px;
+    margin-bottom: 70px;
+}
+
+.footerCon1{
+    display:flex;
+    justify-content: center;
+    gap:15px;
+}
+
+.footerCon1 a{
+    text-decoration: none;
+    font-size: 12px;
+    color:#737373
+}
+
+.footerCon2{
+    font-size:12px;
+    color:#737373;
+    display:flex;
+    gap:10px;
+}
+
+.footerCon2 select{
+    font-size:12px;
+    color:#737373;
+    border: none;
+    outline:none
+    
+}

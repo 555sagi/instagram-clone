@@ -1,0 +1,142 @@
+.signup-main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    min-height: 100vh;
+    margin-top: 12px;
+}
+
+.signup-box {
+    width: 350px;
+    text-align: center;
+}
+
+.signup-box .signCon {
+    margin-inline: auto;
+    border: 1px solid #cac6c6;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.signup-box .logo {
+    width: 175px;
+    height: 51px;
+    margin-top: 50px;
+    margin-bottom: 15px;
+    filter: blur(0.6px);
+}
+
+.signup-box .signUp-text-field {
+    font-size: 16px;
+    color: #737373;
+    font-weight: 600;
+}
+
+.signup-box .divider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    margin-top: 18px;
+}
+
+.signup-box .divider hr {
+    flex-grow: 1;
+    border: none;
+    height: 1px;
+    background-color: #d7d7d7;
+}
+
+.signup-box .or-tag {
+    font-size: 13px;
+    color: #676464;
+    font-weight: bold;
+}
+
+.signup-box .fb-login-button {
+    width: 100%;
+    background-color: #0095f6;
+    padding: 7px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.signup-box .signup-fb-login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup-box .signCon a {
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.signup-box .signCon a span {
+    color: #fff;
+}
+
+.signup-box .formCon {
+    margin-top: 15px;
+}
+
+.signup-box .formCon input {
+    width: 100%;
+    background-color: #fafafa;
+    padding: 8.5px;
+    border: 1px solid #e0dfdf;
+    border-radius: 2px;
+    transition: border-color 0.2s ease-in-out;
+    margin-bottom: 6px;
+}
+
+.signup-box .formCon input:focus {
+    outline: none;
+    border-color: #3d3c3c;
+}
+
+.signup-box .notification {
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.signup-box .signup-text-field {
+    margin-bottom: 15px;
+}
+
+.signup-box .notification p a {
+    font-weight: 450;
+    color: #00376b;
+    margin-left: 3px;
+    margin-bottom: 10px;
+}
+
+.signup-box .signup-button {
+    width: 100%;
+    background-color: #4CB5F9;
+    border: none;
+    padding: 10px;
+    border-radius: 7px;
+    color: #fff;
+    font-weight: 550;
+    margin-bottom: 35px;
+}
+
+.signup-box .loginCon {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #cac6c6;
+    padding: 20px;
+    gap: 5px;
+    font-size: 14px;
+}
+
+.signup-box .loginCon a {
+    text-decoration: none;
+    color: #0095F6;
+    font-weight: 550;
+}

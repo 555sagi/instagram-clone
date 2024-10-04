@@ -1,0 +1,19 @@
+.app-linksCon{
+    margin-top:20px;
+    font-size:14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:15px;
+}
+
+.link-img-con{
+    display: flex;
+    gap:10px;
+}
+
+.img-link{
+    width:134px;
+    height: 40px;
+}

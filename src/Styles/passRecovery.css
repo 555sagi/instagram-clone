@@ -1,0 +1,120 @@
+
+.recovery-logo{
+    margin-top:20px;
+}
+.recoveryCon{
+    display: flex;
+   
+    justify-content: center;
+    text-align: center;
+    background-color: #fff;
+    
+}
+.recovery-main-con{
+
+    border:1px solid #c5c4c4
+
+}
+.passRecoveryCon{
+    width:388px;
+    padding: 0px 44px 0px 44px;
+}
+
+.pTag1{
+    font-size:16px;
+    color:black;
+    font-weight: 500;
+    margin-top:15px;
+  
+}
+
+.pTag2{
+    font-size:14px;
+    color:#737373;
+    margin-top:15px;
+}
+
+.recovery-form{
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top:15px;
+}
+
+.recovery-form input{
+    width: 100%;
+    padding: 9.3px;
+    background-color: #fafafa;
+    border:1px solid #c7c5c5;
+    border-radius: 3px;
+    outline:none;
+    transition: border-color 0.2s ease ;
+}
+
+.recovery-form input:focus{
+    border-color: #494848;
+}
+.recovery-button1{
+    width: 100%;
+    padding: 7px;
+    background-color: #B2DFFC;
+    border:none;
+    border-radius:5px;
+    color:#fff;
+    font-weight:500;
+    filter: blur(0.4px);
+    margin-top:15px;
+    margin-bottom: 10px;
+}
+.recovery-button1 a{
+    text-decoration: none;
+    color: white;
+}
+.recover-button2 a{
+    text-decoration: none;
+    color:black
+}
+.recovery-cant-reset{
+    text-decoration: none;
+    font-size: 12px;
+    color:#00367b;
+   
+}
+.recovery-hr{
+    width: 100%;
+    border:1px solid #d7d0d0
+}
+.recovery-divider{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:25px;
+
+}
+
+.recovery-orTag{
+    color:#737373;
+    font-size: 13px;
+    font-weight: 500;
+    margin: 0px 20px 0px 20px;
+}
+.recovery-create-account{
+    display: block;
+    text-decoration: none;
+    font-size: 14px;
+    color:#262626;
+    font-weight: 500;
+    margin-top:15px;
+    margin-bottom:70px;
+}
+
+.recover-button2{
+    width:100%;
+    background-color: #fafafa;
+    padding: 10px;
+    border:none;
+    border-top:1px solid #c5c4c4;
+}
+
