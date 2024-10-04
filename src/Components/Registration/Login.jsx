@@ -24,7 +24,7 @@ import Footer from "../Footer";
                         </form>
                         <div className="login-divider">
                             <hr />
-                            <span className="login-orTag">OR</span>
+                            <span className="login-orTag">Or</span>
                             <hr />
                         </div>
 
